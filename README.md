@@ -1,2 +1,2 @@
-# loja-virtual
-Projeto de  Desenvolvimento de uma loja virtual
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
